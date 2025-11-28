@@ -106,6 +106,7 @@ body {
     border-radius: 8px;
     font-family: "Playpen Sans", cursive;
     cursor: pointer;
+    transform: translate(0,23%);
 }
 
 /* Hero Image */
@@ -338,3 +339,4 @@ body {
         height: 140px;
     }
 }
+
