@@ -209,7 +209,7 @@ body {
         transform: translateY(50px);
     }
     .hero-btn{
-        transform: translateY(30px);
+        transform: translateY(40px);
     }
     .hero-image img {
         width: 70%;
@@ -339,4 +339,5 @@ body {
         height: 140px;
     }
 }
+
 
